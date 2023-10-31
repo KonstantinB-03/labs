@@ -1,0 +1,15 @@
+D:\Учёба\3 курс\1 семестр\Тестирование и отладка программного обеспечения\Практика\Errors\Errors\bin\Debug\net6.0\Errors.exe
+D:\Учёба\3 курс\1 семестр\Тестирование и отладка программного обеспечения\Практика\Errors\Errors\bin\Debug\net6.0\Errors.deps.json
+D:\Учёба\3 курс\1 семестр\Тестирование и отладка программного обеспечения\Практика\Errors\Errors\bin\Debug\net6.0\Errors.runtimeconfig.json
+D:\Учёба\3 курс\1 семестр\Тестирование и отладка программного обеспечения\Практика\Errors\Errors\bin\Debug\net6.0\Errors.dll
+D:\Учёба\3 курс\1 семестр\Тестирование и отладка программного обеспечения\Практика\Errors\Errors\bin\Debug\net6.0\Errors.pdb
+D:\Учёба\3 курс\1 семестр\Тестирование и отладка программного обеспечения\Практика\Errors\Errors\obj\Debug\net6.0\Errors.csproj.AssemblyReference.cache
+D:\Учёба\3 курс\1 семестр\Тестирование и отладка программного обеспечения\Практика\Errors\Errors\obj\Debug\net6.0\Errors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\3 курс\1 семестр\Тестирование и отладка программного обеспечения\Практика\Errors\Errors\obj\Debug\net6.0\Errors.AssemblyInfoInputs.cache
+D:\Учёба\3 курс\1 семестр\Тестирование и отладка программного обеспечения\Практика\Errors\Errors\obj\Debug\net6.0\Errors.AssemblyInfo.cs
+D:\Учёба\3 курс\1 семестр\Тестирование и отладка программного обеспечения\Практика\Errors\Errors\obj\Debug\net6.0\Errors.csproj.CoreCompileInputs.cache
+D:\Учёба\3 курс\1 семестр\Тестирование и отладка программного обеспечения\Практика\Errors\Errors\obj\Debug\net6.0\Errors.dll
+D:\Учёба\3 курс\1 семестр\Тестирование и отладка программного обеспечения\Практика\Errors\Errors\obj\Debug\net6.0\refint\Errors.dll
+D:\Учёба\3 курс\1 семестр\Тестирование и отладка программного обеспечения\Практика\Errors\Errors\obj\Debug\net6.0\Errors.pdb
+D:\Учёба\3 курс\1 семестр\Тестирование и отладка программного обеспечения\Практика\Errors\Errors\obj\Debug\net6.0\Errors.genruntimeconfig.cache
+D:\Учёба\3 курс\1 семестр\Тестирование и отладка программного обеспечения\Практика\Errors\Errors\obj\Debug\net6.0\ref\Errors.dll
